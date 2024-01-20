@@ -1,0 +1,13 @@
+.contact button{
+    width: 200px;
+    height: 70px;
+    background-color: blue;
+    color: white;
+    
+}
+button:hover{
+    background-color: green;
+}
+p{
+    font-size: 30px;
+}
